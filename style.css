@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    overflow: hidden;
+}
+
+iframe{
+    display: none;
+}
+
+img{
+    position: absolute;
+    clip-path: inset(0 0 50% 0);
+    transition: filter 2s;
+}
+
+div{
+    position: absolute;
+}
